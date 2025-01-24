@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/POS-SYSTEM/static/css/main.b94cd63b.css",
+    "main.js": "/POS-SYSTEM/static/js/main.72b19421.js",
+    "index.html": "/POS-SYSTEM/index.html",
+    "main.b94cd63b.css.map": "/POS-SYSTEM/static/css/main.b94cd63b.css.map",
+    "main.72b19421.js.map": "/POS-SYSTEM/static/js/main.72b19421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94cd63b.css",
+    "static/js/main.72b19421.js"
+  ]
+}
